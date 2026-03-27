@@ -1,14 +1,12 @@
 # 🚀 LeetCode Solutions
 
-This repository contains my solutions to LeetCode problems.
+This repository is where I’m documenting my journey of solving problems on LeetCode.
 
 ## 📌 About
-- Practicing DSA
-- Solving problems daily
-- Using Python
+- I’m practicing Data Structures and Algorithms regularly  
+- Trying to improve my problem-solving skills step by step  
+- Most solutions are written in Python  
 
 ## 📈 Progress
-Updating regularly.
-
----
+I try to solve and upload problems consistently as I learn.
 
