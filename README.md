@@ -41,4 +41,8 @@ I try to solve and upload problems consistently as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
