@@ -63,4 +63,17 @@ I try to solve and upload problems consistently as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0097-interleaving-string](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0097-interleaving-string/) | Medium |
+| [0402-remove-k-digits](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 <!---LeetCode Topics End-->
