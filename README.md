@@ -72,6 +72,7 @@ I try to solve and upload problems consistently as I learn.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0135-candy](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0402-remove-k-digits](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -81,4 +82,8 @@ I try to solve and upload problems consistently as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0135-candy](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0135-candy/) | Hard |
 <!---LeetCode Topics End-->
