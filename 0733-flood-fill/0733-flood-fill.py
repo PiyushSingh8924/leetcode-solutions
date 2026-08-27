@@ -14,16 +14,15 @@ class Solution(object):
         if image[sr][sc] == color:
             return image
 
-        queue = deque()
-        image[sr][sc] = color
-        queue.append((sr,sc))
-        while len(queue) > 0 :
-            i,j = queue.popleft()
-            for dx,dy in ([0,1],[0,-1],[1,0],[-1,0]):
-                new_i , new_j = i + dx, j + dy
-                if new_i < 0 or new_i >= rows or new_j < 0 or new_j >= cols:
-                    continue
-                if image[new_i][new_j] == original:
-                    image[new_i][new_j] = color
-                    queue.append((new_i, new_j))
+        def dfs(i,j):
+            if i < 0 or i >= rows or j < 0 or j >= cols:
+                return
+            if image[i][j] != original:
+                return
+            image[i][j] = color
+            dfs(i + 1, j)  
+            dfs(i - 1, j)  
+            dfs(i, j + 1)  
+            dfs(i, j - 1) 
+        dfs(sr, sc)
         return image
