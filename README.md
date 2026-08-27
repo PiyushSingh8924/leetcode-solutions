@@ -32,6 +32,7 @@ I try to solve and upload problems consistently as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0994-rotting-oranges](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,8 +88,13 @@ I try to solve and upload problems consistently as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0135-candy](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0135-candy/) | Hard |
+| [0994-rotting-oranges](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0994-rotting-oranges](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
