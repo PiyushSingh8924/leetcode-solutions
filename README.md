@@ -27,6 +27,7 @@ I try to solve and upload problems consistently as I learn.
 | [0104-maximum-depth-of-binary-tree](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0130-surrounded-regions](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
@@ -34,6 +35,7 @@ I try to solve and upload problems consistently as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0130-surrounded-regions](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
@@ -93,6 +95,7 @@ I try to solve and upload problems consistently as I learn.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0135-candy](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0200-number-of-islands](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -106,6 +109,7 @@ I try to solve and upload problems consistently as I learn.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
@@ -113,6 +117,7 @@ I try to solve and upload problems consistently as I learn.
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
