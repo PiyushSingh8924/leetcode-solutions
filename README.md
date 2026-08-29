@@ -95,6 +95,7 @@ I try to solve and upload problems consistently as I learn.
 | ------- | ------- |
 | [0135-candy](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0200-number-of-islands](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0542-01-matrix](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -113,4 +114,8 @@ I try to solve and upload problems consistently as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
