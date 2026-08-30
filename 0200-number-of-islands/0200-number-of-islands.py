@@ -1,18 +1,22 @@
 class Solution(object):
-    def dfs(self,i,j,visited,grid):
+    def bfs(self,i,j,visited,grid):
         rows = len(grid)
         cols = len(grid[0])
-        if i < 0 or j < 0 or i >= rows or j >= cols:
-            return
-        if visited[i][j] == 1:
-            return
-        if grid[i][j] == "0":
-            return
-        visited[i][j] = 1
-        self.dfs(i+1,j,visited,grid)
-        self.dfs(i-1,j,visited,grid) 
-        self.dfs(i,j+1,visited,grid) 
-        self.dfs(i,j-1,visited,grid) 
+        queue = deque()
+        queue.append((i,j))
+        while queue:
+            x,y = queue.popleft()
+            for xx,yy in [(1,0),(-1,0),(0,1),(0,-1)]:
+                dx = x + xx
+                dy = y + yy
+                if dx < 0 or dy < 0 or dx >= rows or dy >= cols:
+                    continue
+                if grid[dx][dy] == "0":
+                    continue
+                if visited[dx][dy] == 1:
+                    continue
+                visited[dx][dy] = 1
+                queue.append((dx,dy))
 
     def numIslands(self, grid):
         """
@@ -27,7 +31,7 @@ class Solution(object):
             for c in range(cols):
                 if grid[r][c] == "1" and visited[r][c] ==0:
                     count += 1
-                    self.dfs(r,c,visited,grid)
+                    self.bfs(r,c,visited,grid)
         return count
 
                 
