@@ -36,6 +36,7 @@ I try to solve and upload problems consistently as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0127-word-ladder](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
@@ -75,6 +76,7 @@ I try to solve and upload problems consistently as I learn.
 | ------- | ------- |
 | [0097-interleaving-string](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0127-word-ladder](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0402-remove-k-digits](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Stack
@@ -130,4 +132,12 @@ I try to solve and upload problems consistently as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
