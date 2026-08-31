@@ -87,6 +87,7 @@ I try to solve and upload problems consistently as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
+| [0739-daily-temperatures](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@ I try to solve and upload problems consistently as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
+| [0739-daily-temperatures](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +113,7 @@ I try to solve and upload problems consistently as I learn.
 | [0540-single-element-in-a-sorted-array](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0542-01-matrix](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0739-daily-temperatures](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0994-rotting-oranges](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
