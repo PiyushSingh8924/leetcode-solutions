@@ -106,6 +106,7 @@ I try to solve and upload problems consistently as I learn.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0130-surrounded-regions](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0135-candy](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0200-number-of-islands](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
@@ -143,6 +144,7 @@ I try to solve and upload problems consistently as I learn.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0127-word-ladder](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 ## Bidirectional Search
 | Problem Name | Difficulty |
