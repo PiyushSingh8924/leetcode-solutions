@@ -4,8 +4,11 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        seen = set(nums)
-        i = 1
-        while i in seen:
-            i += 1
-        return i
+        nums.sort()
+        mis = 1
+        for num in nums:
+            if num == mis:
+                mis += 1
+            elif num > mis:
+                return mis
+        return mis
