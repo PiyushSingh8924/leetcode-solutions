@@ -65,6 +65,7 @@ I try to solve and upload problems consistently as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +121,7 @@ I try to solve and upload problems consistently as I learn.
 | [0994-rotting-oranges](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
