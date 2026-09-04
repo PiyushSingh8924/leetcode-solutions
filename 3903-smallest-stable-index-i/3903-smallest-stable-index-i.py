@@ -6,12 +6,13 @@ class Solution(object):
         :rtype: int
         """
         n = len(nums)
-        min_index = nums[:]
-        for i in range(n-2,-1,-1):
-            min_index[i] = min(min_index[i],min_index[i+1])
-        max_num = nums[0]
         for i in range(n):
-            max_num = max(max_num,nums[i])
-            if max_num - min_index[i] <= k:
+            max_num = nums[0]
+            for j in range(i + 1):
+                max_num = max(max_num, nums[j])
+            min_num = nums[i]
+            for j in range(i, n):
+                min_num = min(min_num, nums[j])
+            if max_num - min_num <= k:
                 return i
         return -1
