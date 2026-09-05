@@ -17,7 +17,7 @@ class Solution(object):
         result = []
         while queue:
             curr_node = queue.popleft()
-            result.append(i)
+            result.append(curr_node)
             for adj_node in adj_list[curr_node]:
                 indegrees[adj_node] -= 1
                 if indegrees[adj_node] == 0:
