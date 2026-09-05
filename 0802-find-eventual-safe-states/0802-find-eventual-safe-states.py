@@ -10,9 +10,7 @@ class Solution(object):
         for node in range(v):
             for adj_node in graph[node]:
                 adj_list[adj_node].append(node)
-        for node in range(len(adj_list)):
-            for adj_node in adj_list[node]:
-                indegrees[adj_node] += 1
+            indegrees[node] = len(graph[node])
         queue = deque()
         result = []
         for node in range(0,v):
