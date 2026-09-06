@@ -17,7 +17,6 @@ class Solution(object):
             if indegrees[i] == 0:
                 queue.append(i)
                 dist[i] = time[i - 1]
-        ans = 0
         while queue:
             curr = queue.popleft()
             for adj_node in adj_list[curr]:
