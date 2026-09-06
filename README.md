@@ -91,6 +91,7 @@ I try to solve and upload problems consistently as I learn.
 | [0097-interleaving-string](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0542-01-matrix](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
+| [2050-parallel-courses-iii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +135,7 @@ I try to solve and upload problems consistently as I learn.
 | [0739-daily-temperatures](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0994-rotting-oranges](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/1020-number-of-enclaves/) | Medium |
+| [2050-parallel-courses-iii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -189,6 +191,7 @@ I try to solve and upload problems consistently as I learn.
 | [0547-number-of-provinces](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [2050-parallel-courses-iii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 ## Graph Coloring
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,10 +210,12 @@ I try to solve and upload problems consistently as I learn.
 | [0207-course-schedule](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [2050-parallel-courses-iii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
+| [2050-parallel-courses-iii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 ## Kosaraju's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
