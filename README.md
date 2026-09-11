@@ -140,6 +140,7 @@ I try to solve and upload problems consistently as I learn.
 | [1020-number-of-enclaves](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -177,6 +178,7 @@ I try to solve and upload problems consistently as I learn.
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0127-word-ladder](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
+| [3483-unique-3-digit-even-numbers](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,4 +237,12 @@ I try to solve and upload problems consistently as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0630-course-schedule-iii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0630-course-schedule-iii/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
