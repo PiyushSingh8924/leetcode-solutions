@@ -136,6 +136,7 @@ I try to solve and upload problems consistently as I learn.
 | [0630-course-schedule-iii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0630-course-schedule-iii/) | Hard |
 | [0733-flood-fill](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0835-image-overlap](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
@@ -157,6 +158,7 @@ I try to solve and upload problems consistently as I learn.
 | [0240-search-a-2d-matrix-ii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0542-01-matrix](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0835-image-overlap](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/1020-number-of-enclaves/) | Medium |
 ## Union-Find
