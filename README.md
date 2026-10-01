@@ -17,6 +17,7 @@ I try to solve and upload problems consistently as I learn.
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
@@ -26,6 +27,7 @@ I try to solve and upload problems consistently as I learn.
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
@@ -62,6 +64,7 @@ I try to solve and upload problems consistently as I learn.
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
@@ -263,4 +266,8 @@ I try to solve and upload problems consistently as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
