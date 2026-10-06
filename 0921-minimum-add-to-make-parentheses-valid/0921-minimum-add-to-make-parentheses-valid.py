@@ -4,14 +4,13 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        count = 0
-        n = 0
+        st = []
         for ch in s:
             if ch == '(':
-                count += 1
-            if ch == ')':
-                if count > 0:
-                    count -= 1
+                st.append(ch)
+            elif ch == ')':
+                if st and st[-1] == '(':
+                    st.pop()
                 else:
-                    n += 1
-        return count + n
+                    st.append(ch)
+        return len(st)
