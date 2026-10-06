@@ -110,6 +110,7 @@ I try to solve and upload problems consistently as I learn.
 | [0127-word-ladder](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0402-remove-k-digits](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0856-score-of-parentheses](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -119,6 +120,7 @@ I try to solve and upload problems consistently as I learn.
 | [0402-remove-k-digits](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0739-daily-temperatures](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Greedy
@@ -127,6 +129,7 @@ I try to solve and upload problems consistently as I learn.
 | [0135-candy](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0402-remove-k-digits](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0630-course-schedule-iii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0630-course-schedule-iii/) | Hard |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -267,6 +270,7 @@ I try to solve and upload problems consistently as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0856-score-of-parentheses](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Manacher
