@@ -20,6 +20,7 @@ I try to solve and upload problems consistently as I learn.
 | [0098-validate-binary-search-tree](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
@@ -75,6 +76,7 @@ I try to solve and upload problems consistently as I learn.
 | [0098-validate-binary-search-tree](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
@@ -155,6 +157,7 @@ I try to solve and upload problems consistently as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0130-surrounded-regions](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0135-candy](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0135-candy/) | Hard |
@@ -209,6 +212,7 @@ I try to solve and upload problems consistently as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Bidirectional Search
@@ -240,6 +244,7 @@ I try to solve and upload problems consistently as I learn.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
