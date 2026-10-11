@@ -108,6 +108,7 @@ I try to solve and upload problems consistently as I learn.
 | [0005-longest-palindromic-substring](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0097-interleaving-string](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0542-01-matrix](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
@@ -138,6 +139,7 @@ I try to solve and upload problems consistently as I learn.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0135-candy](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0402-remove-k-digits](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0630-course-schedule-iii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0630-course-schedule-iii/) | Hard |
@@ -159,6 +161,7 @@ I try to solve and upload problems consistently as I learn.
 | [0041-first-missing-positive](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0135-candy](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0200-number-of-islands](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
