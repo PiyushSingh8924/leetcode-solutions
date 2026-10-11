@@ -5,11 +5,10 @@ class Solution(object):
         :rtype: int
         """
         max_count = 0
-        curr_count = 0
-        for num in nums:
-            if num == 1:
-                curr_count += 1
-                max_count = max(curr_count,max_count)
+        left = 0
+        for right in range(len(nums)):
+            if nums[right] == 1:
+                max_count = max(right-left+1,max_count)
             else:
-                curr_count = 0
+                left = right + 1
         return max_count
