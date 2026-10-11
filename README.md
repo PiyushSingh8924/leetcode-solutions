@@ -111,6 +111,7 @@ I try to solve and upload problems consistently as I learn.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0542-01-matrix](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -143,6 +144,7 @@ I try to solve and upload problems consistently as I learn.
 | [0135-candy](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0402-remove-k-digits](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0630-course-schedule-iii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0630-course-schedule-iii/) | Hard |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Monotonic Stack
@@ -171,6 +173,7 @@ I try to solve and upload problems consistently as I learn.
 | [0540-single-element-in-a-sorted-array](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0542-01-matrix](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0630-course-schedule-iii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0630-course-schedule-iii/) | Hard |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0733-flood-fill](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0835-image-overlap](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0835-image-overlap/) | Medium |
