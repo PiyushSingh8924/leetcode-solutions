@@ -161,6 +161,7 @@ I try to solve and upload problems consistently as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
+| [0051-n-queens](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -310,9 +311,14 @@ I try to solve and upload problems consistently as I learn.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0113-path-sum-ii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
