@@ -93,6 +93,7 @@ I try to solve and upload problems consistently as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3871-count-commas-in-range-ii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -147,6 +148,7 @@ I try to solve and upload problems consistently as I learn.
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
