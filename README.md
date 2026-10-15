@@ -259,6 +259,7 @@ I try to solve and upload problems consistently as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0191-number-of-1-bits](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -326,4 +327,8 @@ I try to solve and upload problems consistently as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
