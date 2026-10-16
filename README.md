@@ -121,6 +121,7 @@ I try to solve and upload problems consistently as I learn.
 | [0097-interleaving-string](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
+| [0389-find-the-difference](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0402-remove-k-digits](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0856-score-of-parentheses](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -228,6 +229,7 @@ I try to solve and upload problems consistently as I learn.
 | [0041-first-missing-positive](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
+| [0389-find-the-difference](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Bidirectional Search
 | Problem Name | Difficulty |
@@ -284,6 +286,7 @@ I try to solve and upload problems consistently as I learn.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0389-find-the-difference](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0630-course-schedule-iii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0630-course-schedule-iii/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Heap (Priority Queue)
@@ -331,4 +334,5 @@ I try to solve and upload problems consistently as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
+| [0389-find-the-difference](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 <!---LeetCode Topics End-->
