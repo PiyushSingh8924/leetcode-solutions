@@ -118,6 +118,7 @@ I try to solve and upload problems consistently as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0065-valid-number](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0065-valid-number/) | Hard |
 | [0097-interleaving-string](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
