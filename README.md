@@ -187,6 +187,7 @@ I try to solve and upload problems consistently as I learn.
 | [1470-shuffle-the-array](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2050-parallel-courses-iii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
+| [2089-find-target-indices-after-sorting-array](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -240,6 +241,7 @@ I try to solve and upload problems consistently as I learn.
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +290,7 @@ I try to solve and upload problems consistently as I learn.
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0630-course-schedule-iii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0630-course-schedule-iii/) | Hard |
+| [2089-find-target-indices-after-sorting-array](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
