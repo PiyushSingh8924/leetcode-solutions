@@ -92,6 +92,7 @@ I try to solve and upload problems consistently as I learn.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3871-count-commas-in-range-ii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -339,4 +340,12 @@ I try to solve and upload problems consistently as I learn.
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 <!---LeetCode Topics End-->
