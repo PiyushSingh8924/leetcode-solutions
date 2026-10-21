@@ -131,6 +131,7 @@ I try to solve and upload problems consistently as I learn.
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
