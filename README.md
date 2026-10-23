@@ -180,6 +180,7 @@ I try to solve and upload problems consistently as I learn.
 | [0200-number-of-islands](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0542-01-matrix](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
@@ -237,6 +238,7 @@ I try to solve and upload problems consistently as I learn.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0389-find-the-difference](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Bidirectional Search
 | Problem Name | Difficulty |
