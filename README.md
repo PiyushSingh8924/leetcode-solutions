@@ -92,6 +92,7 @@ I try to solve and upload problems consistently as I learn.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2409-count-days-spent-together](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -131,6 +132,7 @@ I try to solve and upload problems consistently as I learn.
 | [1021-remove-outermost-parentheses](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2409-count-days-spent-together](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/PiyushSingh8924/leetcode-solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Stack
